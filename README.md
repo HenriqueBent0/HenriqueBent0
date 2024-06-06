@@ -1,4 +1,14 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center"> 
+  👋
+</p>
+
+<p align="center"> 
+  <strong>I'm Henrique Bento, a dedicated developer passionate about technology, always striving to improve my skills. Currently, I'm pursuing my degree in Information Systems at Unisul, in Florianópolis, aiming to expand my knowledge and expertise in the field. I'm seeking professional opportunities in software development, where I can apply and enhance my skills, contributing to innovative and challenging projects.</strong>
+</p>
+
+
+
+
 
 [![HenriqueBent0's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBent0)](https://github.com/HenriqueBent0/github-readme-stats)
  
