@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-  <strong>I'm Henrique Bento, a dedicated developer passionate about technology, always striving to improve my skills. Currently, I'm pursuing my degree in Information Systems at Unisul, in Florianópolis, aiming to expand my knowledge and expertise in the field. I'm seeking professional opportunities in software development, where I can apply and enhance my skills, contributing to innovative and challenging projects.</strong>
+  <strong>Dev Back-End.</strong>
 </p>
 
 
