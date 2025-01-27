@@ -23,6 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%232F8A53.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-Unit%20Testing-blueviolet?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
